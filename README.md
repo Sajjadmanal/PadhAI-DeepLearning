@@ -13,5 +13,6 @@ This repository contains following Python Notebooks.
 4. [Sigmoid and Gradient Descent](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/4.%20Sigmoid%20and%20gradient%20descent/Sigmoid%20Neuron.ipynb)
 5. [Feed Forward Networks](https://github.com/tarunlahrod/Deep-Learning-PadhAI/tree/master/5.%20Feed%20Forward%20Networks)
 
+
 <br> **If any notebooks does not opens** then please go to [nbviewer.jupyter.org/](https://nbviewer.jupyter.org/) and paste the link of the notebook.
 
