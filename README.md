@@ -1,4 +1,4 @@
-# Deep Learning Padhai
+# Deep Learning PadhAi
 This repo contains the material for deep learning course **Padhai** by One Fourth Labs ([padhai.onefourthlabs.in](padhai.onefourthlabs.in))
 <br>
 This repository contains following Python Notebooks.
