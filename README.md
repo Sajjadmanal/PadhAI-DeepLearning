@@ -4,9 +4,9 @@ This repo contains the material for deep learning course **Padhai** by One Fourt
 This repository contains following Python Notebooks.
 1. Python Basics
   * [Numpy tutorials](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/1.%20Python%20Basics/Numpy%20Tutorial.ipynb)
-  * [Plotting](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/1.%20Python%20Basics/Plotting.ipynb)
+  * [Plotting](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/1.%20Python%20Basics/Plotting.ipynb)
 2. Python more basics + Linear algebra
-  * [Pandas tutorials](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Pandas%20tutorials.ipynb)
+  * [Pandas tutorials](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Pandas%20tutorials.ipynb)
   * [Vectors](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Vectors.ipynb)
   * [Debugging](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Debugging.ipynb)
 3. [MP Neuron and Perceptron models](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/3.%20Python:%20MP%20Neuron%2C%20Perceptron%2C%20Test%20and%20Train/MP%20Neuron%20and%20Perceptron%20Model.ipynb)
