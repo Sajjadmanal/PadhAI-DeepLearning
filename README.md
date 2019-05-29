@@ -9,7 +9,7 @@ This repository contains following Python Notebooks.
   * [Pandas tutorials](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Pandas%20tutorials.ipynb)
   * [Vectors](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Vectors.ipynb)
   * [Debugging](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/2.%20Python%20more%20basics%20%2B%20Linear%20algebra/Debugging.ipynb)
-3. [MP Neuron and Perceptron models](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/3.%20Python:%20MP%20Neuron%2C%20Perceptron%2C%20Test%20and%20Train/MP%20Neuron%20and%20Perceptron%20Model.ipynb)
+3. [MP Neuron and Perceptron models](https://github.com/sajjadmanal/PadhAI-DeepLearning/blob/master/3.%20Python:%20MP%20Neuron%2C%20Perceptron%2C%20Test%20and%20Train/MP%20Neuron%20and%20Perceptron%20Model.ipynb)
 4. [Sigmoid and Gradient Descent](https://github.com/tarunlahrod/Deep-Learning-PadhAI/blob/master/4.%20Sigmoid%20and%20gradient%20descent/Sigmoid%20Neuron.ipynb)
 5. [Feed Forward Networks](https://github.com/tarunlahrod/Deep-Learning-PadhAI/tree/master/5.%20Feed%20Forward%20Networks)
 
